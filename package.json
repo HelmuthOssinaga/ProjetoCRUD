@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/HelmuthOssinaga/ProjetoCRUD.git"
   },
+  "dependencies": {
+    "body-parser": "~1.18.1",
+    "express": "~4.16.0",
+    "mongoose": "~4.11.12",
+    "request": "~2.82.0"
+  },
   "author": "HelmuthOssinaga",
   "license": "MIT",
   "bugs": {
